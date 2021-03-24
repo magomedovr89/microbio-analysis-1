@@ -4,4 +4,5 @@
 # Starting project in console on Windows
    >```python main.py```
 # Starting project in console on Linux
-   >```python3 main.py```
+   >```python3 main.py``
+   >rrr
